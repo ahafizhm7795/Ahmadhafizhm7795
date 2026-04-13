@@ -26,4 +26,6 @@ Project ini merupakan implementasi dasar Big Data menggunakan:
 
 ## Author
 
-Raffasya Rizki Ramadhan
+**Ahmad Hafizh Maulana**
+NIM: 230104040229
+Kelas: TI23A
